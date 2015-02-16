@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="Brian Svoboda - Astronomy research at the University of Arizona Steward Observatory">
     <meta name="keywords" content="Svoboda, Brian Svoboda, Brian Edward Svoboda, autocorr">
-    <title>Brian Svoboda ~ {{ page.title }}</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <link rel="icon" type="image/ico" href="images/favicon.ico">
+    <title>Brian Svoboda - {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}stylesheets/pygment_trac.css">
+    <link rel="icon" type="image/ico" href="{{ site.baseurl }}images/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include google_analytics.html %}
     <!--[if lt IE 9]>
@@ -28,6 +28,6 @@
 
       {% include footer.html %}
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <script src="{{ site.baseurl }}javascripts/scale.fix.js"></script>
   </body>
 </html>
