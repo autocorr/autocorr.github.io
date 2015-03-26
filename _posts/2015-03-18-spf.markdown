@@ -3,4 +3,4 @@ layout: page
 title: Star and Planet Formation in the Southwest
 ---
 
-I'll also be attending the [SPF-1](https://lavinia.as.arizona.edu/~kkratter/SPF1/) meeting in Tucson, Arizona, between March 23-27.
+I'll also be presenting a poster at the [SPF-1](https://lavinia.as.arizona.edu/~kkratter/SPF1/) meeting in Tucson, Arizona, between March 23-27. My poster will report the results of our study comparing the physical conditions of BGPS clumps associated to different observational indicators of star-formation.
