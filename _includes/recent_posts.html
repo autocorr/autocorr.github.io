@@ -5,9 +5,8 @@
 
 		<div class="entry">
 			{{ post.content | truncatewords:40 }}
+			<a href="{{ post.url }}" class="read-more">Read More</a>
 		</div>
-		<a href="{{ post.url }}" class="read-more">Read More</a>
-		<br>
 	{% endfor %}
 	</article>
 </div>
