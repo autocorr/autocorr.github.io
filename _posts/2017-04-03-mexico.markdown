@@ -1,0 +1,6 @@
+---
+layout: page
+title: Mutli-Scale Star Formation Meeting in Moralia, Mexico
+---
+
+I'll be presenting at the [Multi-Scale Star Formation](http://www.crya.unam.mx/multi-scaleSF17/) meeting in Morelia, Mexico, between April 3-7. The meeting focuses on the high dynamic range of scales important to star formation, from stellar scales to galactic.

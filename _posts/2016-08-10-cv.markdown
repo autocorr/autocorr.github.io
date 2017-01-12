@@ -1,0 +1,6 @@
+---
+layout: page
+title: Data Reduction in Charlottesville
+---
+
+Between August 10-24 I'll be staying in Charlottesville, VA, reducing and analyzing our ALMA Cycle 3 data with the help Todd Hunter and Crystal Brogan at the [NRAO](https://www.cv.nrao.edu/).

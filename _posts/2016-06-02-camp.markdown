@@ -1,0 +1,6 @@
+---
+layout: page
+title: Beginning and Advanced Astronomy Camp
+---
+
+In June I will be a camp counselor for the Beginning and Advanced Teen [Astronomy Camps](http://astronomycamp.org/). Astronomy Camp is a wonderful opportunity for teens to learn astronomy through an "immersion" experience on Kitt Peak with world class professional telescopes. Among other duties I'll be contributing my experience with the [ARO](http://aro.as.arizona.edu/) facilities for projects involving radio astronomy and the ISM.

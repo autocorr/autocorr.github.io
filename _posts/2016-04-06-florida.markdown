@@ -1,0 +1,6 @@
+---
+layout: page
+title: Presentation at From Stars to Massive Stars
+---
+
+On Wednesday April 6 I'll be presentating a talk entitled "Protoclsuters in the Milky Way: Physical Properties of Massive Starless & Star-forming Clumps in the BGPS" at the [From Stars to Massive Stars](http://conference.astro.ufl.edu/STARSTOMASSIVE/STM/Home.html) meeting in Gainesville, FL.

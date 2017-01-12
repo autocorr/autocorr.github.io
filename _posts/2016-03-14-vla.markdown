@@ -1,0 +1,6 @@
+---
+layout: page
+title: Workshop and Lunch Talk at VLA DSOC
+---
+
+I'll be visiting Socorro, NM, for the [5th VLA data reduction workshop](https://science.nrao.edu/science/meetings/2016/vla-data-reduction) between March 14-18 and staying for further work until March 25. I'll be giving a lunch seminar on my research at noon on Wednesday March 23.

@@ -1,0 +1,7 @@
+---
+layout: page
+title: ARGUS observations on the GBT
+---
+
+On March 11 Yancy and I will travel to Green Bank, WV, for our 17B [ARGUS](http://www.gb.nrao.edu/argus/) observations studying infall in HCO+ towards high-mass starless clump candidates. Fingers crossed for good weather and low tau! ARGUS is a 16-pixel focal plane array operating in the rich 3 mm band between 85-116 GHz. The moderately high resolution of 9 arcseconds and fast mapping speed yield unprecedented imaging capabilities at 3 mm without the spatial filtering of an interferometer.
+

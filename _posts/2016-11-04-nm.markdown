@@ -1,0 +1,6 @@
+---
+layout: page
+title: Presentation at 32nd Annual New Mexico Symposium
+---
+
+Right next door in Socorro, NM, I'll be presenting a talk at the [32nd Annual New Mexico Symposium](http://www.aoc.nrao.edu/events/nmsymposium/2016/) entitled "Properties of Starless Clumps through Protoclusters from the BGPS" on Nov 4. Afterwards, I'll spend the following week working at the DSOC examining archival VLA data.
