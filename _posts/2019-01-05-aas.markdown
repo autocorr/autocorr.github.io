@@ -1,0 +1,6 @@
+---
+layout: page
+title: 233rd AAS Winter Meeting
+---
+
+I'll be presenting a talk (ID 108.03) at the [233rd AAS](https://aas.org/meetings/aas233) in Seattle, Washington, on Monday January 7 at 10:30-10:40 am. I will present recent results on probing gas inflow with GBT Argus and ALMA mapping towards starless clump candidates.
